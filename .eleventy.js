@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/css");
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addPassthroughCopy("src/media");
+    eleventyConfig.addPassthroughCopy("src/_redirects");
 
 
     eleventyConfig.addFilter("to12hourTime", function(timeString) { 
