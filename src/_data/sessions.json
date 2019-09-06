@@ -1,0 +1,383 @@
+{
+    "arduino": {
+        "slug": "arduino",
+        "title": "The Arduino Opens",
+        "description": "How to use open source tools to do very useful, interesting and excellent things with the Arduino micro-controller board.",
+        "track": "exploration",
+        "space": "room-1",
+        "timePeriod": 1445,
+        "level": "200",
+        "speakers": [
+            "paul-flint"
+        ]
+    },
+    "building-scalable-data-based-windows-mobile-apps": {
+        "slug": "building-scalable-data-based-windows-mobile-apps",
+        "title": "Building Scalable Data-Based Windows Mobile Apps",
+        "description": "In this session we will use Visual Studio, the Windows Phone SDK, and WCF to build a Windows Mobile application that communicates directly with WCF Data Services. WCF Data Services enable the creation and consumption of OData services for the web. We will then use the cloud to scale our WCF Data Services to simulate growth of our mobile user base.",
+        "track": "performance",
+        "space": "room-4",
+        "timePeriod": 1330,
+        "level": "200",
+        "speakers": [
+            "matthew-ammerman"
+        ]
+    },
+    "clojure": {
+        "slug": "clojure",
+        "title": "Introduction to Clojure: Practical Lisp and Functional Programming for the JVM",
+        "description": "In this talk / interactive workshop I will introduce participants to the fundamentals of Clojure, and get everyone set up with working Clojure development environments.",
+        "track": "architecture",
+        "space": "room-3",
+        "timePeriod": 1445,
+        "level": "200",
+        "speakers": [
+            "robert-levy"
+        ]
+    },
+    "content-first": {
+        "slug": "content-first",
+        "title": "Content First! — Building Web Experiences for an Ever-Changing Landscape of Connected Devices",
+        "description": "An introduction to future friendly design and development. Using content strategy and progressive enhancement techniques to help change the way we have been designing and building for the past 20 years.",
+        "track": "design",
+        "space": "room-2",
+        "timePeriod": 1130,
+        "level": "200",
+        "speakers": [
+            "nat-woodard"
+        ]
+    },
+    "crafting-scaleable-stylesheets": {
+        "slug": "crafting-scaleable-stylesheets",
+        "title": "Crafting Scaleable Stylesheets",
+        "description": "One of the best things about CSS is that it's easy to learn, and a breeze to update. One of the *worst* things about CSS is that it's easy to learn, and a *breeze* to update. A blessing and a curse, you might say. This session will propose practical methods of creating scalable, organized and maintainable stylesheets by use of Sass, Compass and a handful of other tools.\n\nTopics Discussed:\n\n* Refusing to be bothered by browser prefixes (seriously... do it).\n* Writing object-oriented CSS (yes, really).\n* Minimizing code duplication.\n* Separation of concerns (in the context of stylesheets).\n* Getting your company or team up and running.",
+        "track": "design",
+        "space": "room-2",
+        "timePeriod": 1015,
+        "level": "200",
+        "speakers": [
+            "mike-fowler"
+        ]
+    },
+    "creating-your-own-software-company": {
+        "slug": "creating-your-own-software-company",
+        "title": "Creating Your Own Software Company: A Survival Guide",
+        "description": "Creating your own software company seems easier than ever, but it takes a lot more than a good idea to make a business. Find out real world lessons about what it takes to create and market a software product as an Independent Software Vendor (ISV) including:\n\n* Picking the right product to build around\n* Marketing in the Internet Age\n* What it looks like when you're successful\n\nPresented by one of the founders of Gibraltar Software, we break down some of the commonly held myths around software products so you can learn from our mistakes and get a look into the reality behind the dream.",
+        "space": "parlor",
+        "timePeriod": 1330,
+        "level": "200",
+        "speakers": [
+            "kendall-miller"
+        ]
+    },
+    "data-encryption-with-sql-server": {
+        "slug": "data-encryption-with-sql-server",
+        "title": "Protect Your Data's Privacy! Data Encryption with SQL Server",
+        "description": "Your data at rest is at risk. We take great pains to write secure applications that prevent bad guys from snooping around and stealing confidential information, but what about when we finally write to the database? In this session you will learn to protect your data by leveraging the built in encryption functionality in SQL Server 2005 and higher. We will walk through a brownfield application and transparently secure all of the sensitive data it stores without frustrating the overworked developers. Topics covered will include column level data encryption, providing lookups of encrypted data, basics of key management and the transparent data encryption capabilities of SQL Server 2008 and higher.",
+        "track": "data",
+        "space": "room-5",
+        "timePeriod": 1615,
+        "level": "300",
+        "speakers": [
+            "joe-kuemerle"
+        ]
+    },
+    "do-not-design-like-a-programmer": {
+        "slug": "do-not-design-like-a-programmer",
+        "title": "Don't Design Like a Programmer",
+        "description": "Have you ever wondered why UI design is so hard? The top challenge is to think about design the right way. In this talk, Everett McKay (a programmer!) explains the UI design approach often used by programmers, why such designs fail with users, and presents a technique that programmers can use to design in a truly user-centered way.",
+        "track": "design",
+        "space": "room-2",
+        "timePeriod": 900,
+        "level": "100",
+        "speakers": [
+            "everett-mckay"
+        ]
+    },
+    "domain-driven-design": {
+        "slug": "domain-driven-design",
+        "title": "Domain-Driven Design",
+        "description": "Domain-driven design is a collaborative process involving both domain experts and software practitioners that attempts to address issues of complexity in software. This process is described in the book Domain-Driven Design written by Eric Evans. Domain-driven design starts with the assertion that complexity is in the domain, not in the technology. Accordingly, we must let technology play a supporting role.\n\nA person practicing domain-driven design does not attempt to model reality. Instead, domain experts and software practitioners use a mental model as a tool for solving problems within a given domain. The domain experts and software practitioners collaborate to explore and develop this model. We will look at the concept of a bounded context within which models can be isolated and explored. We will talk about domain-driven design's building block patterns including entities, value objects, aggregates, repositories, services, and domain events. We will see how test-driven development can be used as a means of exploring the model.",
+        "track": "architecture",
+        "space": "room-3",
+        "timePeriod": 1615,
+        "level": "400",
+        "speakers": [
+            "bradley-holt"
+        ]
+    },
+    "dot-net-framework-and-principles": {
+        "slug": "dot-net-framework-and-principles",
+        "title": "Getting Geeky with the .NET Framework and Principles",
+        "description": "This talk walks through parts of the .NET framework that are often overlooked or misunderstood. The focus is on key principles and how to use them to improve your code. The talk starts with a walkthrough of encapsulating code (or more correctly safe pointers to code) through delegates, anonymous methods and lambda expressions. Lambda expressions require you understand closures and their impact on local variables. You'll also see how lambda expressions can simplify code and open up more functional approaches to writing code. Moving on to generics, you'll see generic inheritance hierarchies, static fields in generic classes, and overloading rules. Tackling LINQ, the talk offers a quick overview of selection and filtering syntax and then dives into powerful set manipulation tools, data transformations, improved XML techniques, and LINQ-friendly extension methods. Touching on the new async behavior in .NET 4.5 you'll learn about an unexpected quirk in exception handling. The talk closes out with quick excursions into code contracts to improve reliability, tuples to simplify complex lists and arrays, and dynamic variables to simplify accessing external libraries. This is a fast ride through familiar scenery pointing out tar pits, quick sand and beautiful sunrises.",
+        "track": "architecture",
+        "space": "room-3",
+        "timePeriod": 1015,
+        "level": "300",
+        "speakers": [
+            "kathleen-dollard"
+        ]
+    },
+    "event-sourcing-and-read-model-projections": {
+        "slug": "event-sourcing-and-read-model-projections",
+        "title": "Introduction to Event Sourcing and Read-Model Projections",
+        "description": "In this session we'll introduce the concept of an event as a data storage structure. We will construct an event store for an application and demonstrate how to load, analyze, and project different data structures from the event store.",
+        "track": "performance",
+        "space": "room-4",
+        "timePeriod": 900,
+        "level": "300",
+        "speakers": [
+            "jeffrey-fritz"
+        ]
+    },
+    "functional-programming": {
+        "slug": "functional-programming",
+        "title": "What is Functional Programming?",
+        "description": "Explore the foundations of functional programming, how it is different from imperative programming, and what it means to program in a functional style. No particular language background is assumed.",
+        "track": "architecture",
+        "space": "room-3",
+        "timePeriod": 900,
+        "level": "200",
+        "speakers": [
+            "eric-smith"
+        ]
+    },
+    "get-your-application-game-on": {
+        "slug": "get-your-application-game-on",
+        "title": "Get Your Application Game On",
+        "description": "Gamification is one of the hottest topics in social networking today. In this session we'll explore the gamification architecture in Sueetie and show you how to take your application to the next adventure level with Member Points, Badges and Leaderboards. We'll also show you how gamification features can result in other benefits like increased member engagement and customer loyalty.",
+        "track": "exploration",
+        "space": "room-1",
+        "timePeriod": 1330,
+        "level": "200",
+        "speakers": [
+            "dave-burke"
+        ]
+    },
+    "going-independent": {
+        "slug": "going-independent",
+        "title": "Going Independent – 3 Years into the Adventure",
+        "description": "Ever think about being an independent consultant or freelancer? In this talk I'll provide you with some real information that can help you decide if it is for you. I'll also provide some tips on things you'll need to get started. The majority of the information in this presentation is based on what I've learned in the past 3 years as a freelancer/independent consultant.",
+        "space": "parlor",
+        "timePeriod": 900,
+        "level": "100",
+        "speakers": [
+            "jason-haley"
+        ]
+    },
+    "headless-javascript-bdd": {
+        "slug": "headless-javascript-bdd",
+        "title": "Like a Genie from the Lamp: Headless JavaScript BDD with Jasmine and PhantomJS",
+        "description": "Jasmine is a mature BDD test framework for JavaScript, and though powerful and feature-rich in its own right, you are often still shackled to a browser window to conduct your tests. Tools like Selenium WebDriver make automated testing possible, but they are difficult to set up, cumbersome to use, and worst of all slow. Wouldn't it be nice if you could execute your tests as part of your build? And have those tests before completed in seconds? With PhantomJS (\"the headless WebKit\") that wish has come true. In this talk we will introduce the Jasmine BDD test framework, introduce PhantomJS, and demonstrate how to execute your Jasmine tests in PhantomJS for lightning fast results.",
+        "track": "design",
+        "space": "room-2",
+        "timePeriod": 1330,
+        "level": "300",
+        "speakers": [
+            "rob-friesel"
+        ]
+    },
+    "high-performance-json-web-api": {
+        "slug": "high-performance-json-web-api",
+        "title": "High Performance JSON Web API, Easily (With Haskell and Yesod)",
+        "description": "Aimed at PHP/Ruby/Python programmers, this talk aims to show the power and simplicity of both Haskell and the web framework written in it: Yesod.\n\nWe will have a brief overview of Yesod, walk through the building of a scaffolded application as we build a simple, yet very elegant web application for serving JSON data to an external application.\n\nWith time permitting, we will cover Hamlet template files by giving an HTML representation to our data.",
+        "track": "design",
+        "space": "room-2",
+        "timePeriod": 1445,
+        "level": "300",
+        "speakers": [
+            "geoff-golder"
+        ]
+    },
+    "learning-to-love-javascript": {
+        "slug": "learning-to-love-javascript",
+        "title": "Learning to Love JavaScript",
+        "description": "With all the libraries out there to help in client-side development, I found myself wanting to dive solely into JavaScript. This talk will take attendees through the basics of JavaScript, focusing on syntax, closures, datatypes, prototypal inheritance and events. I hope to also talk about the importance of JavaScript today, given how many frameworks exist and what can be done with things like WebGL, Canvas and WebSockets.",
+        "track": "design",
+        "space": "room-2",
+        "timePeriod": 1615,
+        "level": "200",
+        "speakers": [
+            "dan-bowles"
+        ]
+    },
+    "lunch": {
+        "slug": "lunch",
+        "title": "Lunch",
+        "space": "main-hall",
+        "timePeriod": 1230,
+        "speakers": []
+    },
+    "mathematica": {
+        "slug": "mathematica",
+        "title": "Mathematica, Programming and Learning by Exploration",
+        "description": "Mathematica is both a Domain Specific Language (DSL) and interactive environment for experiencing mathematics. It provides a rich set of mathematical capabilities, both symbolic and analytic, as well as extensive methods for visualization. In this presentation I will outline some of the features and programming paradigms that Mathematica supports and delve into the possibilities of using domain specific languages to enhance the learning of mathematics. My objective is to show that mathematics, programming and learning math can be fun and exploratory.\n\nOutline:\n\n* What is Mathematica\n* The language and the runtime environment\n* An overview of some of its many uses\n* Language interoperability (C#, Java, other)\n* Mathematica as a learning tool\n* Visualization as a means of understanding\n* Fun programming challenges\n* Now all we need is a hit mathematics game",
+        "track": "exploration",
+        "space": "room-1",
+        "timePeriod": 1130,
+        "level": "100",
+        "speakers": [
+            "john-cicilio"
+        ]
+    },
+    "performance-testing-and-tuning": {
+        "slug": "performance-testing-and-tuning",
+        "title": "Performance Testing and Tuning",
+        "description": "General principles of good performance testing. How to use Groovy, or Python to write tests for The Grinder to test the scalability and performance characteristics of just about any application, but with examples centered around RESTful HTTP services.",
+        "track": "performance",
+        "space": "room-4",
+        "timePeriod": 1615,
+        "level": "200",
+        "speakers": [
+            "ryan-gardner"
+        ]
+    },
+    "powerpivot-2012": {
+        "slug": "powerpivot-2012",
+        "title": "Get to Know PowerPivot 2012 / Analysis Services Tabular",
+        "description": "This session will demonstrate PowerPivot 2012 new features as well as its interaction with Analysis Services new tabular model. I will teach the attendees how the combination of these Tools can help IT delivers data to its client and how it ease the task of getting data requirements.",
+        "track": "data",
+        "space": "room-5",
+        "timePeriod": 1130,
+        "level": "200",
+        "speakers": [
+            "christian-cote"
+        ]
+    },
+    "raffle": {
+        "slug": "raffle",
+        "title": "Raffle",
+        "space": "main-hall",
+        "timePeriod": 1730,
+        "speakers": []
+    },
+    "refactoring-to-a-solid-foundation": {
+        "slug": "refactoring-to-a-solid-foundation",
+        "title": "Refactoring to a S.O.L.I.D. Foundation",
+        "description": "In this session we take a small, functional but tightly-coupled software solution and improve its design using each of Robert C. Martin's S.O.L.I.D. principles as follows:\n\n* SRP: Single Responsibility Principle\n* OCP: Open-Close Principle\n* LSP: Liskov Substitution Principle\n* ISP: Interface Segregation Principle\n* DIP: Dependency Inversion Principle\n\nEach principle is applied in sequence to the existing solution, making it possible for the attendee to observe the principle in relative isolation first while also evolving an understanding of how the principles all collaboratively reinforce each other when applied together. Before each principle is applied and the solution is refactored to introduce it, the attendee is presented with one or two simple PowerPoint slides to introduce the concept and provide some abstract understanding of its goals and benefits to OO programming. The principle is then applied to the existing solution, demonstrating the practical application of the principle to working software. At each step along the way, the existing solution (a simple console application) is re-executed, demonstrating that the overall behavior of the software solution has not been negatively impacted by the various refactorings.",
+        "track": "architecture",
+        "space": "room-3",
+        "timePeriod": 1330,
+        "level": "200",
+        "speakers": [
+            "steve-bohlen"
+        ]
+    },
+    "registration": {
+        "slug": "registration",
+        "title": "Registration",
+        "space": "main-hall",
+        "timePeriod": 800,
+        "speakers": []
+    },
+    "scaling-systems": {
+        "slug": "scaling-systems",
+        "title": "Scaling Systems: Architectures that Grow",
+        "description": "It's harder than ever to predict the load your application will need to handle in advance, so how do you design your architecture so you can afford to implement as you go and be ready for whatever comes your way. It's easy to focus on optimizing each part of your application but your application architecture determines the options you have to make big leaps in scalability. In this talk we'll cover practical patterns you can build today to meet the needs of rapid development while still creating systems that can scale up and out. Specific code examples will focus on .NET but the principles apply across many technologies. Real world systems will be discussed based on our experience helping customers around the world optimize their enterprise applications.",
+        "track": "performance",
+        "space": "room-4",
+        "timePeriod": 1130,
+        "level": "200",
+        "speakers": [
+            "kendall-miller"
+        ]
+    },
+    "scientific-computing-with-python": {
+        "slug": "scientific-computing-with-python",
+        "title": "Scientific Computing with Python",
+        "description": "An introduction to python as the glue that binds the modern scientific workflow. I will describe how python, in combination with the libraries Numpy, Scipy and Matplotlib are used to tackle problems related to the solution or simulation of real physical systems.",
+        "track": "exploration",
+        "space": "room-1",
+        "timePeriod": 1015,
+        "level": "200",
+        "speakers": [
+            "adrian-del-maestro"
+        ]
+    },
+    "snacks": {
+        "slug": "snacks",
+        "title": "Snacks",
+        "space": "main-hall",
+        "timePeriod": 1545,
+        "speakers": []
+    },
+    "software-design-solutions": {
+        "slug": "software-design-solutions",
+        "title": "For Every Problem in Software Design There's a Solution...",
+        "description": "Raise your hand if you build distributed 3 tier applications. Keep your hand up if those application support your business operations (Line of Business). Keep your hand up if you use some of the following technologies: WPF, WCF, Entity Framework 4.0, LinQ, SQL Server or Oracle. Keep your hand up if those applications have to perform well and have a fluid user interface. You can lower your hand if you've already solved many of the common problems to using the technologies mentioned above...If your hand is still up though, it might be a good thing to come to this presentation for a wrap up of the problems that typically arise when building such an application and to see the possible solution path that are proposed. Oh and in the mean time you can lower your hand.",
+        "track": "exploration",
+        "space": "room-1",
+        "timePeriod": 1615,
+        "level": "200",
+        "speakers": [
+            "vincent-grondin"
+        ]
+    },
+    "sql-basics": {
+        "slug": "sql-basics",
+        "title": "SQL - The Basics",
+        "description": "Relational databases lie underneath many of the computer programs that we use daily. This talk will cover the basics of the SQL language and how to arrange/normalize your data to efficiently fit into a relational database.",
+        "track": "data",
+        "space": "room-5",
+        "timePeriod": 1445,
+        "level": "100",
+        "speakers": [
+            "rene-churchill"
+        ]
+    },
+    "taking-the-cloud-with-you": {
+        "slug": "taking-the-cloud-with-you",
+        "title": "Taking the Cloud with You: Using Windows Azure to Build Cloud Enabled Windows 8 Apps",
+        "description": "Windows 8 introduces opportunities for developers to create a new generation of applications targeting a variety of new and often portable devices. Windows Azure provides developers with scalable and reliable services in the Cloud that allow them to extend the reach of their applications without needing to focus on the related infrastructure and capital concerns. In this session, John Garland will present several tools and techniques that can be used to enrich Windows 8 applications that take advantage of the Cloud by taking advantage of Windows Azure and its related services.",
+        "track": "architecture",
+        "space": "room-3",
+        "timePeriod": 1130,
+        "level": "200",
+        "speakers": [
+            "john-garland"
+        ]
+    },
+    "understanding-when-and-why-things-are-broken": {
+        "slug": "understanding-when-and-why-things-are-broken",
+        "title": "Understanding When and Why Things Are Broken (In Realtime): Using Graphite and Graylog",
+        "description": "In order to determine how your application is performing at runtime, you can spend a lot of money on profiling and analysis tools, or spend lot of time logging and parsing on your own. Graphite and Graylog will make your job easier, and that you need to have them in your toolbox. We will start demonstrating the simplicity of Graphite integration and how visualization will save your day. Then we will utilize Graylog to have runtime log analysis in realtime and find the cause of the issue *now*. Examples will be presented using Vagrant with Chef/Puppet, which might just make the presentation worthwhile on its own.",
+        "track": "performance",
+        "space": "room-4",
+        "timePeriod": 1445,
+        "level": "200",
+        "speakers": [
+            "brian-lloyd-newberry"
+        ]
+    },
+    "unit-testing": {
+        "slug": "unit-testing",
+        "title": "Unit Testing: Taking Your Medicine or Eating Candy?",
+        "description": "Everybody says unit testing is good for you, but can you stand the taste? I'll briefly review the role of unit testing in your projects, then present ways to make it not only tolerable but, possibly, even enjoyable. I'll describe how to create effective tests, how the design of your code can minimize the work in testing, and describe the most common tests frameworks that can help make testing less of a hassle.",
+        "track": "performance",
+        "space": "room-4",
+        "timePeriod": 1015,
+        "level": "200",
+        "speakers": [
+            "steve-boylan"
+        ]
+    },
+    "welcome": {
+        "slug": "welcome",
+        "title": "Welcome",
+        "space": "main-hall",
+        "timePeriod": 845,
+        "speakers": []
+    },
+    "windows-8-development": {
+        "slug": "windows-8-development",
+        "title": "Absolutely Everything About Windows 8*",
+        "description": "*That will fit in 60 minutes. With the launch of Windows 8 being just around the corner, it’s the perfect time to have a look around and discover what it all means for you as a developer. We’ll tour some key Windows 8 features, look at the Windows Store, how to add your own apps, and how to make money. We’ll also fire up the latest developer tools and delve into code, including the option of using HTML5, JavaScript, and CSS to create Windows Store apps.",
+        "track": "exploration",
+        "space": "room-1",
+        "timePeriod": 900,
+        "level": "200",
+        "speakers": [
+            "chris-bowen"
+        ]
+    }
+}

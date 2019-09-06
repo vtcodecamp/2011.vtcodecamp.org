@@ -1,0 +1,22 @@
+{
+    "architecture": {
+        "slug": "architecture",
+        "title": "Software & Architecture"
+    },
+    "data": {
+        "slug": "data",
+        "title": "Data"
+    },
+    "design": {
+        "slug": "design",
+        "title": "HTML5, JavaScript & Design"
+    },
+    "exploration": {
+        "slug": "exploration",
+        "title": "Exploration"
+    },
+    "performance": {
+        "slug": "performance",
+        "title": "QA, Scaling & Performance"
+    }
+}
