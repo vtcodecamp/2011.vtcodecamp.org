@@ -9,7 +9,7 @@ let dataPath = projectRoot + '/src/_data'
 let year = '2011'
 
 convertSessions();
-convertLevels();
+// convertLevels();
 convertSpaces();
 convertSpeakers();
 convertTimePeriods();

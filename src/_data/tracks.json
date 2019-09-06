@@ -1,22 +1,18 @@
 {
-    "architecture": {
-        "slug": "architecture",
-        "title": "Software & Architecture"
+    "data-and-more": {
+        "slug": "data-and-more",
+        "title": "Data & More"
     },
-    "data": {
-        "slug": "data",
-        "title": "Data"
+    "dot-net": {
+        "slug": "dot-net",
+        "title": ".NET"
     },
-    "design": {
-        "slug": "design",
-        "title": "HTML5, JavaScript & Design"
+    "patterns-and-practices": {
+        "slug": "patterns-and-practices",
+        "title": "Patterns & Practices"
     },
-    "exploration": {
-        "slug": "exploration",
-        "title": "Exploration"
-    },
-    "performance": {
-        "slug": "performance",
-        "title": "QA, Scaling & Performance"
+    "web": {
+        "slug": "web",
+        "title": "Web"
     }
 }
